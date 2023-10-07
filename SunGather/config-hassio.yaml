@@ -1,4 +1,4 @@
-# For full configuration options see: https://github.com/bohdan-s/SunGather/blob/main/SunGather/config-example.yaml
+# For full configuration options see: https://github.com/santje243/SunGather/blob/main/SunGather/config-example.yaml
 inverter:
   host: null
   scan_interval: 30

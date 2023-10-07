@@ -8,12 +8,12 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="SunGather",
     version=__version__,
-    author="Bohdan Flower",
-    author_email="github@bohdan.net",
+    author="Stefan Hoffmann",
+    author_email="github@santje243.de",
     description="Collect data from Sungrow Inverters and feed to various locations (MQTT, PVOutput, Home Assistant)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/bohdan-s/SunGather",
+    url="https://github.com/santje243/SunGather",
     packages=setuptools.find_packages(),
     install_requires=[
         'pymodbus>=2.3.0',
