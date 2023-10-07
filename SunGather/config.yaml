@@ -20,7 +20,7 @@ services:
 map: 
   - share:rw
 options: 
-  host: 192.168.1.100
+  host: 192.168.178.80
   timeout: 10
   scan_interval: 30
   connection: "modbus"
